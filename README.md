@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanh</h1>
+<h1 align="center">Hi 👋, I'm Mei</h1>
 <h3 align="center">A college student in Hanoi University of Industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakurathanh2003&label=Profile%20views&color=0e75b6&style=flat" alt="sakurathanh2003" /> </p>
