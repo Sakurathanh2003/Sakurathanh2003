@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakurathanh2003&label=Profile%20views&color=0e75b6&style=flat" alt="sakurathanh2003" /> </p>
 
-- 🌱 I’m currently learning **Software engineer**
+- 🌱 I’m currently learning **Software engineering**
 
 - ⚡ Fun fact **I am not funny**
 
